@@ -1,0 +1,152 @@
+# WhatsApp Chat Extraction Result
+Target: Isha (Yip)
+Messages sent by them: 40
+Total messages in conversation: 80
+
+---
+
+## Long Messages (>50 chars, highest weight: viewpoints / emotion / explanation)
+
+[1/5/26, 7:44 AM] ohhhh im glad u texted me. ente kayyinnum phone numbers okke poyarunn
+
+[1/5/26, 7:45 AM] 3g avastha aanu. 11th was good, but ee varsham njn van ozhapp aarunn.ini enkilum padikkan thodangi illel pani aavum
+
+---
+
+## Conflict / Emotion Messages (arguments / apology / breakup / shutdown-related)
+
+---
+
+## Sweet Messages (confession / missing them / daily care)
+
+[4/3/26, 10:03 AM] Cute pfp btw
+
+[4/4/26, 9:55 PM] Brooo yours is cuterrr 😭
+
+---
+
+## Daily Small Talk (style reference, 36 total, fully included)
+
+[6/8/24, 7:26 PM] heyyyy
+[6/8/24, 7:27 PM] how r u??
+[6/8/24, 7:37 PM] i'm ok too!!
+[6/8/24, 7:42 PM] potti ennanu ente oru nigamanam
+[6/8/24, 7:57 PM] OMGGG
+[6/8/24, 7:57 PM] CONGRATULATIONS!!!!!
+[6/8/24, 7:58 PM] btw njan cs eduthu
+[6/8/24, 8:06 PM] 24th
+[6/8/24, 8:07 PM] i absolutely don't want to go back 2 skool tbh
+[6/8/24, 9:23 PM] alla
+[6/8/24, 9:23 PM] nss kunnanthanam
+[6/8/24, 9:44 PM] nee evideya padikkunne <This message was edited>
+[6/8/24, 9:54 PM] ohh
+[6/8/24, 9:54 PM] enganund skool
+[1/4/26, 9:36 PM] yeeeeeeeesh!
+[1/4/26, 9:36 PM] how r u???
+[1/4/26, 9:36 PM] ippo entho cheyyunn
+[1/5/26, 7:44 AM] njan ippo 12th
+[1/6/26, 11:39 AM] aarunn
+[4/3/26, 9:45 AM] Heyyyy
+[4/3/26, 9:45 AM] Kaynjuuu
+[4/3/26, 9:45 AM] Nee ippo entho cheyyuva
+[4/4/26, 9:55 PM] Nalla shokam aarunn
+[4/4/26, 9:55 PM] Ennal long aayitt para
+[4/4/26, 9:56 PM] Omggggg that's soooo cool
+[4/5/26, 5:34 PM] Njn nalla ozhapp aarunn onnm padhchilla 12th il
+[4/5/26, 5:35 PM] Bruhhh 😭
+[4/5/26, 5:35 PM] Ckat coaching nu join aakki
+[4/5/26, 7:17 PM] *clat
+[4/5/26, 8:59 PM] Athentha
+[4/5/26, 8:59 PM] Yeah
+[4/5/26, 9:00 PM] Yeah ippo hostel il aa
+[4/5/26, 9:00 PM] Naale classes start aavum
+[4/5/26, 9:18 PM] Ikrrr
+[4/5/26, 9:18 PM] Yeahh good for u
+[4/5/26, 9:19 PM] Pinne oru tharathil 12th oru neenda rest aarunn 😂
+
+---
+
+## Full Conversation (80 messages, chronological, fully included)
+(Format: [time] sender: content)
+
+[6/8/24, 7:26 PM] Isha (Yip): heyyyy
+[6/8/24, 7:27 PM] Isha (Yip): how r u??
+[6/8/24, 7:35 PM] me: Heloo👋
+[6/8/24, 7:35 PM] me: Fine and yu?
+[6/8/24, 7:37 PM] Isha (Yip): i'm ok too!!
+[6/8/24, 7:41 PM] me: Ahh
+[6/8/24, 7:41 PM] me: Yip okke nathi ?
+[6/8/24, 7:42 PM] Isha (Yip): potti ennanu ente oru nigamanam
+[6/8/24, 7:56 PM] me: Ahno ohh
+[6/8/24, 7:56 PM] me: Njglk kitiyarunnu
+[6/8/24, 7:57 PM] Isha (Yip): OMGGG
+[6/8/24, 7:57 PM] Isha (Yip): CONGRATULATIONS!!!!!
+[6/8/24, 7:58 PM] Isha (Yip): btw njan cs eduthu
+[6/8/24, 8:02 PM] me: Thanks!
+[6/8/24, 8:03 PM] me: Aha yee, cls oke nna thudagunne
+[6/8/24, 8:06 PM] Isha (Yip): 24th
+[6/8/24, 8:07 PM] Isha (Yip): i absolutely don't want to go back 2 skool tbh
+[6/8/24, 8:45 PM] me: Ah obviously 😂
+[6/8/24, 8:45 PM] me: Same schl aa?
+[6/8/24, 9:23 PM] Isha (Yip): alla
+[6/8/24, 9:23 PM] Isha (Yip): nss kunnanthanam
+[6/8/24, 9:41 PM] me: Aah
+[6/8/24, 9:44 PM] Isha (Yip): nee evideya padikkunne <This message was edited>
+[6/8/24, 9:53 PM] me: Holy cross Cherpunkal
+[6/8/24, 9:54 PM] Isha (Yip): ohh
+[6/8/24, 9:54 PM] Isha (Yip): enganund skool
+[1/1/26, 10:25 PM] me: Heyy INTP..
+[1/1/26, 10:25 PM] me: Remember me ??
+[1/4/26, 9:36 PM] Isha (Yip): yeeeeeeeesh!
+[1/4/26, 9:36 PM] Isha (Yip): how r u???
+[1/4/26, 9:36 PM] Isha (Yip): ippo entho cheyyunn
+[1/4/26, 11:28 PM] me: I had lost ur number for longg, so last day I got access to my old account and was just checking through the drive thn suddenly I saw the name in contact and was like oh it's you nn..
+[1/4/26, 11:29 PM] me: Finee trying to do better, wbt you enthoke ond <This message was edited>
+[1/4/26, 11:29 PM] me: And ntha ipo cheyne
+[1/5/26, 7:44 AM] Isha (Yip): ohhhh im glad u texted me. ente kayyinnum phone numbers okke poyarunn
+[1/5/26, 7:44 AM] Isha (Yip): njan ippo 12th
+[1/5/26, 7:45 AM] Isha (Yip): 3g avastha aanu. 11th was good, but ee varsham njn van ozhapp aarunn.ini enkilum padikkan thodangi illel pani aavum
+[1/5/26, 7:51 AM] me: Aah
+[1/5/26, 7:52 AM] me: Oho Woww adipoli 😂
+[1/5/26, 7:53 AM] me: Vacation alarno ippol??
+[1/6/26, 11:39 AM] Isha (Yip): aarunn
+[1/6/26, 11:54 AM] me: Aahh..
+[4/2/26, 2:46 AM] me: Hii
+[4/2/26, 2:47 AM] me: Exam okke kazhinjoo
+[4/3/26, 9:45 AM] Isha (Yip): Heyyyy
+[4/3/26, 9:45 AM] Isha (Yip): Kaynjuuu
+[4/3/26, 9:45 AM] Isha (Yip): Nee ippo entho cheyyuva
+[4/3/26, 10:03 AM] Isha (Yip): Cute pfp btw
+[4/3/26, 9:20 PM] me: Egane indarnnu nnitt,
+[4/3/26, 9:22 PM] me: Haven't figured out, ath eganee short aki parayanm enn..😂 <This message was edited>
+[4/3/26, 9:22 PM] me: Woo seriously 👀 thenkss..
+[4/3/26, 9:23 PM] me: But not as cute as yours ig..
+[4/3/26, 9:32 PM] me: Rn doing multiple things, soo I build robots and tech tech products build akunnuu, idk trying to learn most things to see enthavunnuu.
+[4/4/26, 9:55 PM] Isha (Yip): Nalla shokam aarunn
+[4/4/26, 9:55 PM] Isha (Yip): Ennal long aayitt para
+[4/4/26, 9:55 PM] Isha (Yip): Brooo yours is cuterrr 😭
+[4/4/26, 9:56 PM] Isha (Yip): Omggggg that's soooo cool
+[4/4/26, 10:06 PM] me: Ohh yy??
+Can't even imagine my 12th 😭💀
+[4/4/26, 10:07 PM] me: Yeea athoke thanne tring to do better..
+[4/4/26, 10:08 PM] me: Naah, not even close to your nose ring 🙌🏻🙂‍↕️
+[4/4/26, 10:09 PM] me: What abt youu, ntha prgms..
+[4/5/26, 5:34 PM] Isha (Yip): Njn nalla ozhapp aarunn onnm padhchilla 12th il
+[4/5/26, 5:35 PM] Isha (Yip): Bruhhh 😭
+[4/5/26, 5:35 PM] Isha (Yip): Ckat coaching nu join aakki
+[4/5/26, 7:17 PM] Isha (Yip): *clat
+[4/5/26, 7:38 PM] me: Ahh njn both 11 nd 12 th poyitte illarunnu mostly
+[4/5/26, 7:38 PM] me: Wooo.. u were into law..
+[4/5/26, 7:39 PM] me: Atheyo join akkinn ano
+[4/5/26, 8:59 PM] Isha (Yip): Athentha
+[4/5/26, 8:59 PM] Isha (Yip): Yeah
+[4/5/26, 9:00 PM] Isha (Yip): Yeah ippo hostel il aa
+[4/5/26, 9:00 PM] Isha (Yip): Naale classes start aavum
+[4/5/26, 9:01 PM] me: I didn't felt like.. pretyekich avide poyi pani onnumilarnu 😂 was attending other events nd all...
+[4/5/26, 9:01 PM] me: Ahaa
+[4/5/26, 9:02 PM] me: Ohh, w8 12th ipo kazinje ulullo, rest onnumvendaa
+[4/5/26, 9:18 PM] Isha (Yip): Ikrrr
+[4/5/26, 9:18 PM] Isha (Yip): Yeahh good for u
+[4/5/26, 9:19 PM] Isha (Yip): Pinne oru tharathil 12th oru neenda rest aarunn 😂
+[4/5/26, 9:23 PM] me: Ohh nicee 😂🙂‍↕️
+[4/5/26, 9:23 PM] me: Soo evida join aye?
