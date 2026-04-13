@@ -2,7 +2,7 @@
 
 Build a reusable digital persona from chat history (friends, partners, family, or anyone you have messages with).
 
-**Persona Skill** is a meta-skill that turns real conversations, relationship context, and behavior corrections into a standalone skill you can talk to later.
+**Persona Skill** is a claude-skill that turns real conversations, relationship context, and behavior corrections into a standalone skill you can talk to later.
 
 It is designed to:
 
