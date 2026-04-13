@@ -16,9 +16,9 @@ Instead of generating a bland roleplay profile, this project tries to preserve:
 - relationship dynamics
 - pacing and timing
 
-## How to trigger the meta-skill
+## How to trigger the skill
 
-In Cursor (or any client that loads this repo’s skills), invoke the workflow with a **slash command** in chat:
+In Claude Code, Antigravity  (or any client that loads this repo’s skills), invoke the workflow with a **slash command** in chat:
 
 | Command | Meaning |
 |---------|---------|
