@@ -1,2 +1,4 @@
 # Generated persona skills (local; do not commit)
 personas/
+pycache/
+tools/__pycache__/
